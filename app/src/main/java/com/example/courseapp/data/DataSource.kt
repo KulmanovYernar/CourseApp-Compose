@@ -1,6 +1,7 @@
 package com.example.courseapp.data
 
 import com.example.courseapp.R
+import com.example.courseapp.model.Topic
 
 object DataSource {
     val topics = listOf(
